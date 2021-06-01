@@ -2,7 +2,8 @@ go to https://reqres.in/   """use this dummy api for testing"""'
 
 1. create a collection (API chaining) and use get request tp get all users data.((https://reqres.in/api/users?page=2)) and then click on send. as a reponse we will get all the users data.
 
-2.Now create Put request under API chaining collection .put this address on address (https://reqres.in/api/users/2) ..this is put we must pass request payload and copy the payload from (https://reqres.in/api/users/2) 
+2.Now create Put request under API chaining collection .put this address on address (https://reqres.in/api/users/2) ..
+this is put  so we must pass request payload and copy the payload from (https://reqres.in/api/users/2) 
 and send. i have send this payload {    "name": "morpheus",    "job": "zion resident"}
 
 
@@ -21,5 +22,5 @@ and send. i have send this payload {    "name": "morpheus",    "job": "zion resi
        
                   	      {
     				"name": "{{username}}",
-   					 "job": "zion resident"
+   			        "job": "zion resident"
 				}
