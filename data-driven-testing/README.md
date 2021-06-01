@@ -1,8 +1,8 @@
- //data driven testing
+- data driven testing
 ------------------
 
-//how to run collections
-//import/export the collections
+- how to run collections
+- import/export the collections
 
 Req URL(post):http://dummy.restapiexample.com/api/v1/create
 
