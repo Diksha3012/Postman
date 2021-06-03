@@ -3,7 +3,7 @@
 
 
 
-today we will study what kind of authorization is supported in postman------------------
+Applyting few authorization tools in APIs------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 (1)Basic authorizaion:
 --------------------------------------------
@@ -13,7 +13,7 @@ Basic authorizaion means we just have to pass username and password.
      
                you may see response as unauthorized" and status is 401 unauthorized.
 
-		2. create anotherget request or edit previously get request> the go to authorization tab>select basic auth>pass uername  "postman" and password  		       "password"
+		2. create anotherget request or edit previously get request> the go to authorization tab>select basic auth>pass uername  "postman" and password  		                   "password"
 
 		now send the request and see the response.
 
@@ -25,7 +25,7 @@ Basic authorizaion means we just have to pass username and password.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 (2) API key
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                      1.go create an get request>pass url this api.openweathermap.org/data/2.5/forecast/daily?q=Delhi&cnt=1 and send empty in authorization you must                        see response
+                      1.go create an get request>pass url this api.openweathermap.org/data/2.5/forecast/daily?q=Delhi&cnt=1 and send empty in authorization you must                                     see response
 
 
 
