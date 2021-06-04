@@ -7,8 +7,7 @@
 
 # OAuth2.0
 			
-2.  go to github Docs>references>Respositories:         
-			                                                
+2.  go to github Docs>references>Respositories:	                                            
     2.1  go to postman>collection>Github collection>get method>enter url "https://api.github.com/user/repos"
 
      
