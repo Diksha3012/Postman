@@ -1,1 +1,1 @@
-Postman scripting using Snippet and chai BDD
+Postman scriping 
