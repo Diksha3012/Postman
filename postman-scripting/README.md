@@ -1,1 +1,0 @@
-## Postman scriping using snippet and chai BDD
